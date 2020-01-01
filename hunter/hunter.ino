@@ -9,6 +9,7 @@ void loop() {
   delay(1000);
   for(counter = 2;counter<= 8;counter++){
      //语句将被执行10次
+     //this is branch 
      DigiKeyboard.print("8");
      DigiKeyboard.print("9");
      DigiKeyboard.delay(5000);
